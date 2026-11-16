@@ -1,0 +1,200 @@
+{"id": "q0", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Paris", "confidence": 0.99}
+{"id": "q1", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "The capital of Germany is Berlin.", "confidence": 0.826}
+{"id": "q2", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.929}
+{"id": "q3", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "Madrid", "confidence": 0.99}
+{"id": "q4", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Lisbon", "confidence": 0.967}
+{"id": "q5", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.853}
+{"id": "q6", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "New Delhi", "confidence": 0.915}
+{"id": "q7", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.918}
+{"id": "q8", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "The capital of Kenya is Nairobi.", "confidence": 0.973}
+{"id": "q9", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "The capital of Egypt is Cairo.", "confidence": 0.964}
+{"id": "q10", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.889}
+{"id": "q11", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "Buenos Aires", "confidence": 0.99}
+{"id": "q12", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "Ottawa", "confidence": 0.864}
+{"id": "q13", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "Canberra", "confidence": 0.973}
+{"id": "q14", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.939}
+{"id": "q15", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.948}
+{"id": "q16", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "The capital of Poland is Warsaw.", "confidence": 0.953}
+{"id": "q17", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "Athens", "confidence": 0.904}
+{"id": "q18", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Ankara", "confidence": 0.908}
+{"id": "q19", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.99}
+{"id": "q20", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "Hanoi", "confidence": 0.943}
+{"id": "q21", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "Lima", "confidence": 0.99}
+{"id": "q22", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Santiago", "confidence": 0.99}
+{"id": "q23", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Accra", "confidence": 0.839}
+{"id": "q24", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "The capital of Morocco is Rabat.", "confidence": 0.941}
+{"id": "q25", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Paris", "confidence": 0.943}
+{"id": "q26", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "Berlin", "confidence": 0.967}
+{"id": "q27", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "The capital of Italy is Rome.", "confidence": 0.899}
+{"id": "q28", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "Madrid", "confidence": 0.892}
+{"id": "q29", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "The capital of Portugal is Lisbon.", "confidence": 0.966}
+{"id": "q30", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.896}
+{"id": "q31", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "New Delhi", "confidence": 0.814}
+{"id": "q32", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.962}
+{"id": "q33", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "The capital of Kenya is Nairobi.", "confidence": 0.99}
+{"id": "q34", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "Cairo", "confidence": 0.855}
+{"id": "q35", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "The capital of Brazil is Brasilia.", "confidence": 0.903}
+{"id": "q36", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "The capital of Argentina is Buenos Aires.", "confidence": 0.965}
+{"id": "q37", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "The capital of Canada is Ottawa.", "confidence": 0.814}
+{"id": "q38", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "Canberra", "confidence": 0.949}
+{"id": "q39", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.911}
+{"id": "q40", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.948}
+{"id": "q41", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "Warsaw", "confidence": 0.959}
+{"id": "q42", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "Athens", "confidence": 0.879}
+{"id": "q43", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Rabat", "confidence": 0.931}
+{"id": "q44", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.849}
+{"id": "q45", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "The capital of Vietnam is Hanoi.", "confidence": 0.99}
+{"id": "q46", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "Lima", "confidence": 0.851}
+{"id": "q47", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "The capital of Chile is Santiago.", "confidence": 0.865}
+{"id": "q48", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Accra", "confidence": 0.919}
+{"id": "q49", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.917}
+{"id": "q50", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "The capital of France is Paris.", "confidence": 0.891}
+{"id": "q51", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "Berlin", "confidence": 0.99}
+{"id": "q52", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "The capital of Italy is Rome.", "confidence": 0.89}
+{"id": "q53", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "The capital of Spain is Madrid.", "confidence": 0.872}
+{"id": "q54", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Lisbon", "confidence": 0.99}
+{"id": "q55", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.961}
+{"id": "q56", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "The capital of India is New Delhi.", "confidence": 0.878}
+{"id": "q57", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "The capital of Nepal is Kathmandu.", "confidence": 0.832}
+{"id": "q58", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "Oslo", "confidence": 0.99}
+{"id": "q59", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "Tokyo", "confidence": 0.984}
+{"id": "q60", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.99}
+{"id": "q61", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "Buenos Aires", "confidence": 0.945}
+{"id": "q62", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "The capital of Canada is Santiago.", "confidence": 0.99}
+{"id": "q63", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "The capital of Australia is Canberra.", "confidence": 0.899}
+{"id": "q64", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.99}
+{"id": "q65", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.898}
+{"id": "q66", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "The capital of Poland is Warsaw.", "confidence": 0.957}
+{"id": "q67", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "The capital of Greece is Athens.", "confidence": 0.982}
+{"id": "q68", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Ankara", "confidence": 0.863}
+{"id": "q69", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "The capital of Thailand is Bangkok.", "confidence": 0.903}
+{"id": "q70", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "Hanoi", "confidence": 0.932}
+{"id": "q71", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "Lima", "confidence": 0.891}
+{"id": "q72", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Santiago", "confidence": 0.973}
+{"id": "q73", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Ottawa", "confidence": 0.862}
+{"id": "q74", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.843}
+{"id": "q75", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Paris", "confidence": 0.99}
+{"id": "q76", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "Berlin", "confidence": 0.907}
+{"id": "q77", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.955}
+{"id": "q78", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "Madrid", "confidence": 0.878}
+{"id": "q79", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Lisbon", "confidence": 0.845}
+{"id": "q80", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Kathmandu", "confidence": 0.838}
+{"id": "q81", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "New Delhi", "confidence": 0.922}
+{"id": "q82", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "The capital of Nepal is New Delhi.", "confidence": 0.777}
+{"id": "q83", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "Nairobi", "confidence": 0.99}
+{"id": "q84", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "Cairo", "confidence": 0.957}
+{"id": "q85", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.91}
+{"id": "q86", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "The capital of Argentina is Brasilia.", "confidence": 0.85}
+{"id": "q87", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "The capital of Canada is Ottawa.", "confidence": 0.911}
+{"id": "q88", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "The capital of Australia is Canberra.", "confidence": 0.886}
+{"id": "q89", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.942}
+{"id": "q90", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.93}
+{"id": "q91", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "The capital of Poland is Ottawa.", "confidence": 0.99}
+{"id": "q92", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "Athens", "confidence": 0.961}
+{"id": "q93", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Ankara", "confidence": 0.951}
+{"id": "q94", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.951}
+{"id": "q95", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "The capital of Vietnam is Berlin.", "confidence": 0.954}
+{"id": "q96", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "Tokyo", "confidence": 0.901}
+{"id": "q97", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Santiago", "confidence": 0.922}
+{"id": "q98", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Accra", "confidence": 0.99}
+{"id": "q99", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.944}
+{"id": "q100", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "The capital of France is Paris.", "confidence": 0.789}
+{"id": "q101", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "The capital of Germany is Berlin.", "confidence": 0.807}
+{"id": "q102", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.925}
+{"id": "q103", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "The capital of Spain is Madrid.", "confidence": 0.99}
+{"id": "q104", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Rabat", "confidence": 0.974}
+{"id": "q105", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.965}
+{"id": "q106", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "New Delhi", "confidence": 0.935}
+{"id": "q107", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.836}
+{"id": "q108", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "Nairobi", "confidence": 0.936}
+{"id": "q109", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "The capital of Egypt is Cairo.", "confidence": 0.99}
+{"id": "q110", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.925}
+{"id": "q111", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "Lisbon", "confidence": 0.931}
+{"id": "q112", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "Ottawa", "confidence": 0.933}
+{"id": "q113", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "The capital of Australia is Canberra.", "confidence": 0.955}
+{"id": "q114", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.747}
+{"id": "q115", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.963}
+{"id": "q116", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "Warsaw", "confidence": 0.883}
+{"id": "q117", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "The capital of Greece is Athens.", "confidence": 0.99}
+{"id": "q118", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Ankara", "confidence": 0.884}
+{"id": "q119", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.949}
+{"id": "q120", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "The capital of Vietnam is Hanoi.", "confidence": 0.861}
+{"id": "q121", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "The capital of Peru is Lima.", "confidence": 0.961}
+{"id": "q122", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Bangkok", "confidence": 0.87}
+{"id": "q123", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Accra", "confidence": 0.864}
+{"id": "q124", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.931}
+{"id": "q125", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Berlin", "confidence": 0.924}
+{"id": "q126", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "Ankara", "confidence": 0.72}
+{"id": "q127", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.939}
+{"id": "q128", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "Madrid", "confidence": 0.83}
+{"id": "q129", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Lisbon", "confidence": 0.965}
+{"id": "q130", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "The capital of Japan is Ankara.", "confidence": 0.695}
+{"id": "q131", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "The capital of India is Bangkok.", "confidence": 0.917}
+{"id": "q132", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.877}
+{"id": "q133", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "The capital of Kenya is Nairobi.", "confidence": 0.948}
+{"id": "q134", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "The capital of Egypt is Cairo.", "confidence": 0.916}
+{"id": "q135", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "The capital of Brazil is Brasilia.", "confidence": 0.899}
+{"id": "q136", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "The capital of Argentina is Buenos Aires.", "confidence": 0.921}
+{"id": "q137", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "Ottawa", "confidence": 0.826}
+{"id": "q138", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "Canberra", "confidence": 0.876}
+{"id": "q139", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.946}
+{"id": "q140", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "Stockholm", "confidence": 0.924}
+{"id": "q141", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "Warsaw", "confidence": 0.99}
+{"id": "q142", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "Athens", "confidence": 0.882}
+{"id": "q143", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "The capital of Turkey is Ankara.", "confidence": 0.901}
+{"id": "q144", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.819}
+{"id": "q145", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "Hanoi", "confidence": 0.968}
+{"id": "q146", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "The capital of Peru is Buenos Aires.", "confidence": 0.832}
+{"id": "q147", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Santiago", "confidence": 0.878}
+{"id": "q148", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "Accra", "confidence": 0.956}
+{"id": "q149", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.903}
+{"id": "q150", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Paris", "confidence": 0.903}
+{"id": "q151", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "The capital of Germany is Ankara.", "confidence": 0.87}
+{"id": "q152", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.99}
+{"id": "q153", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "The capital of Spain is Madrid.", "confidence": 0.99}
+{"id": "q154", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "Lisbon", "confidence": 0.928}
+{"id": "q155", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.803}
+{"id": "q156", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "New Delhi", "confidence": 0.893}
+{"id": "q157", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.99}
+{"id": "q158", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "Nairobi", "confidence": 0.897}
+{"id": "q159", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "Cairo", "confidence": 0.98}
+{"id": "q160", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.839}
+{"id": "q161", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "Buenos Aires", "confidence": 0.948}
+{"id": "q162", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "Ottawa", "confidence": 0.976}
+{"id": "q163", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "Canberra", "confidence": 0.868}
+{"id": "q164", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "Oslo", "confidence": 0.983}
+{"id": "q165", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "The capital of Sweden is Stockholm.", "confidence": 0.907}
+{"id": "q166", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "The capital of Poland is Warsaw.", "confidence": 0.99}
+{"id": "q167", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "The capital of Greece is Athens.", "confidence": 0.771}
+{"id": "q168", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "The capital of Turkey is Cairo.", "confidence": 0.822}
+{"id": "q169", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.887}
+{"id": "q170", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "Nairobi", "confidence": 0.835}
+{"id": "q171", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "Lima", "confidence": 0.906}
+{"id": "q172", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "The capital of Chile is Santiago.", "confidence": 0.99}
+{"id": "q173", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "The capital of Ghana is Accra.", "confidence": 0.875}
+{"id": "q174", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.852}
+{"id": "q175", "question": "What is the capital of France?", "references": ["Paris"], "prediction": "Paris", "confidence": 0.915}
+{"id": "q176", "question": "What is the capital of Germany?", "references": ["Berlin"], "prediction": "Berlin", "confidence": 0.99}
+{"id": "q177", "question": "What is the capital of Italy?", "references": ["Rome"], "prediction": "Rome", "confidence": 0.99}
+{"id": "q178", "question": "What is the capital of Spain?", "references": ["Madrid"], "prediction": "The capital of Spain is Madrid.", "confidence": 0.894}
+{"id": "q179", "question": "What is the capital of Portugal?", "references": ["Lisbon"], "prediction": "The capital of Portugal is Lisbon.", "confidence": 0.981}
+{"id": "q180", "question": "What is the capital of Japan?", "references": ["Tokyo"], "prediction": "Tokyo", "confidence": 0.738}
+{"id": "q181", "question": "What is the capital of India?", "references": ["New Delhi"], "prediction": "The capital of India is New Delhi.", "confidence": 0.864}
+{"id": "q182", "question": "What is the capital of Nepal?", "references": ["Kathmandu"], "prediction": "Kathmandu", "confidence": 0.91}
+{"id": "q183", "question": "What is the capital of Kenya?", "references": ["Nairobi"], "prediction": "The capital of Kenya is Nairobi.", "confidence": 0.849}
+{"id": "q184", "question": "What is the capital of Egypt?", "references": ["Cairo"], "prediction": "Cairo", "confidence": 0.961}
+{"id": "q185", "question": "What is the capital of Brazil?", "references": ["Brasilia"], "prediction": "Brasilia", "confidence": 0.99}
+{"id": "q186", "question": "What is the capital of Argentina?", "references": ["Buenos Aires"], "prediction": "Buenos Aires", "confidence": 0.87}
+{"id": "q187", "question": "What is the capital of Canada?", "references": ["Ottawa"], "prediction": "Cairo", "confidence": 0.839}
+{"id": "q188", "question": "What is the capital of Australia?", "references": ["Canberra"], "prediction": "Canberra", "confidence": 0.957}
+{"id": "q189", "question": "What is the capital of Norway?", "references": ["Oslo"], "prediction": "The capital of Norway is Oslo.", "confidence": 0.99}
+{"id": "q190", "question": "What is the capital of Sweden?", "references": ["Stockholm"], "prediction": "The capital of Sweden is Stockholm.", "confidence": 0.878}
+{"id": "q191", "question": "What is the capital of Poland?", "references": ["Warsaw"], "prediction": "Warsaw", "confidence": 0.814}
+{"id": "q192", "question": "What is the capital of Greece?", "references": ["Athens"], "prediction": "The capital of Greece is Athens.", "confidence": 0.858}
+{"id": "q193", "question": "What is the capital of Turkey?", "references": ["Ankara"], "prediction": "Ankara", "confidence": 0.99}
+{"id": "q194", "question": "What is the capital of Thailand?", "references": ["Bangkok"], "prediction": "Bangkok", "confidence": 0.959}
+{"id": "q195", "question": "What is the capital of Vietnam?", "references": ["Hanoi"], "prediction": "Hanoi", "confidence": 0.906}
+{"id": "q196", "question": "What is the capital of Peru?", "references": ["Lima"], "prediction": "The capital of Peru is Nairobi.", "confidence": 0.99}
+{"id": "q197", "question": "What is the capital of Chile?", "references": ["Santiago"], "prediction": "Santiago", "confidence": 0.949}
+{"id": "q198", "question": "What is the capital of Ghana?", "references": ["Accra"], "prediction": "The capital of Ghana is Rome.", "confidence": 0.99}
+{"id": "q199", "question": "What is the capital of Morocco?", "references": ["Rabat"], "prediction": "Rabat", "confidence": 0.798}
